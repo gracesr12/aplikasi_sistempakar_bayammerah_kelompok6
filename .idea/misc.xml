@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_fordwardchaining.xml" value="0.67" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_hama.xml" value="0.18611111111111112" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_hymeniarecurvalisfebricus.xml" value="0.25" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_metode.xml" value="0.2" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_myzuspersicuse.xml" value="0.2" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_naivebayes.xml" value="0.1" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_penjelasan.xml" value="0.18" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_petunjuk.xml" value="0.22" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_serangansiputataubekicot.xml" value="0.18" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_sexavaspp.xml" value="0.18" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_solusi.xml" value="0.22" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_sposdopteraplusiahymenia.xml" value="0.22" />
+        <entry key="..\:/bayammerah/app/src/main/res/layout/activity_tentangkami.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
